@@ -1,0 +1,32 @@
+# DFUC 2020 dataset
+# Train command: python train.py --data ./data/dfuc2020.yaml
+# Dataset should be placed next to yolov5 folder:
+#   /parent_folder
+#     /dfuc2020
+#     /yolov5
+
+
+# train and val datasets (image directory or *.txt file with image paths)
+# Using train dataset as val dataset
+
+######################################################################
+
+
+# Full training
+train: <SET UP YOUR TRAINING DIRECTORY HERE>
+val: <STATE THE SAME DIRECTORY AS FOR TRAINING HERE>
+
+######################################################################
+
+# number of classes
+nc: 1
+
+# class names
+names: ['wound']
+
+# Print classes
+# with open('data/dufc2020.yaml') as f:
+#   d = yaml.load(f, Loader=yaml.FullLoader)  # dict
+#   for i, x in enumerate(d['names']):
+#     print(i, x)
+
