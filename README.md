@@ -1,7 +1,7 @@
 # dfuc2020_snippets
 This repository holds code snippets to be provided alongside with submissions from team FHDO to the DFUC 2020 (https://dfu2020.grand-challenge.org/), associated with the MICCAI 2020 (https://www.miccai2020.org/). A paper on the used dataset is available on arXiv (https://arxiv.org/abs/2004.11853).
 
-Thus, the code snippets may not be of use for anyone else than the challenge hosts. After the challenge results have been published on 15 August 2020, this repository shall be removed and potentially re-opened later in favor of a less specific and more tidy code base.
+Thus, at the moment the code snippets may not be of use for anyone else than the challenge hosts. After the challenge results have been published on 15 August 2020, this repository shall be closed and re-opened later in favor of a less specific and more tidy code base.
 
 The snippets were tested and verified using the YOLOv5 commit a1c8406 (https://github.com/ultralytics/yolov5/commit/a1c8406af3eac3e20d4dd5d327fd6cbd4fbb9752) and may thus only work on with commit in particular. However, using later commits may have beneficial effects on resulting performances. At the moment, YOLOv5 is still in a volatile developmental state, involving a bug fixes and restructuring.
 
