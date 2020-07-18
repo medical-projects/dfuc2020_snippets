@@ -3,7 +3,7 @@ This repository holds code snippets to be provided alongside with submissions fr
 
 Thus, at the moment the code snippets may not be of use for anyone else than the challenge hosts. After the challenge results have been published on 15 August 2020, this repository shall be closed and re-opened later in favor of a less specific and more tidy code base.
 
-The snippets were tested and verified using the YOLOv5 commit a1c8406 (https://github.com/ultralytics/yolov5/commit/a1c8406af3eac3e20d4dd5d327fd6cbd4fbb9752) and may thus only work on with commit in particular. However, using later commits may have beneficial effects on resulting performances. At the moment, YOLOv5 is still in a volatile developmental state, involving a bug fixes and restructuring.
+The snippets were tested and verified using the YOLOv5 commit a1c8406 (https://github.com/ultralytics/yolov5/commit/a1c8406af3eac3e20d4dd5d327fd6cbd4fbb9752) and may thus only work on with commit in particular. However, using later commits may have beneficial effects on resulting performances. At the moment, YOLOv5 is still in a volatile developmental state in regards to bug fixes and restructuring.
 
 The following submissions were sent in, relying on the snippets:
 * 1debdd79-27b3-4ed5-a7f2-095b8601056e (Run: FHDO_YOLOv5_CLEAN_NLM_E60_SELF_E90)
